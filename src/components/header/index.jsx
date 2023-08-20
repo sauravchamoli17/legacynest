@@ -395,10 +395,10 @@ const Header = () => {
                             </div>
                         </div>
                         </div>
-                        <div className={`mobile-button ${menuActive ? 'active' : ''}`} onClick={handleMenuActive}><span></span></div>
-                        {/* <div className="wallet">
+                        {/* <div className={`mobile-button ${menuActive ? 'active' : ''}`} onClick={handleMenuActive}><span></span></div> */}
+                        <div className="wallet">
                         <Link to="/wallet"> Connect Wallet </Link>
-                        </div> */}
+                        </div>
 
                         
                         <Dropdown className='user'>

@@ -11,30 +11,29 @@ const dataWork = [
         img: img1,
         step: 'Step 1',
         title: 'Connect Wallet & Review',
-        text: "Link your wallet to see your crypto and NFT holdings. Review your digital assets' value effortlessly."
+        text: "Link your wallet to see your erc20 token holdings. Review your digital assets' value effortlessly."
     },
     {
         id: 2,
         img: img2,
         step: 'Step 2',
         title: 'Craft Your Will',
-        text: 'Create your digital will easily. Allocate assets, set conditions, and define distribution.'
+        text: 'Design your digital will by selecting the assets you want to pass on in the future.'
     },
     {
         id: 3,
         img: img3,
         step: 'Step 3',
-        title: 'Smart Contract Security',
-        text: 'Smart contracts ensure your wishes are followed. Trust the tamper-proof, transparent execution.'
+        title: 'Choose Transfer Date',
+        text: 'Pick a date when you want your chosen assets to be transferred. You can change this anytime.'
     },
     {
         id: 4,
         img: img4,
         step: 'Step 4',
-        title: 'Legacy Assurance',
-        text: 'Legacy Nest secures your legacy. Your assets reach loved ones transparently and as intended.'
+        title: 'Confirm & Secure',
+        text: 'Finalize your digital will, and our secure system will make sure your assets are transferred according to your wishes.'
     },
-   
 ]
 
 export default dataWork;

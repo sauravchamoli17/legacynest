@@ -72,17 +72,17 @@ function About01(props) {
     const [dataBlock] = useState(
         {
             heading: 'What Is Legacy Nest',
-            desc : 'Legacy Nest revolutionizes digital legacy planning. Securely distribute your cryptocurrency and NFT assets for the future using smart contracts. Create a digital will with ease and transparency, ensuring your legacy lives on.',
+            desc : 'Legacy Nest transforms the way you plan your digital legacy. Effortlessly schedule the transfer of your ERC20 token assets and NFT collections for the future with the aid of smart contracts.',
         }
     )
     const [dataList] = useState([
         {
-            title: 'Effortless Digital Wills',
-            text: 'Legacy Nest simplifies the process of creating digital wills. Our intuitive interface guides you through every step, allowing you to allocate your assets to beneficiaries, set conditions, and specify the distribution of your holdings.'
+            title: 'Streamlined Digital Wills',
+            text: 'Legacy Nest streamlines the creation of digital wills. Our user-friendly interface seamlessly guides you through the process of designating assets to beneficiaries, establishing conditions, and detailing distribution.'
         },
         {
-            title: 'Transparent Smart Contracts',
-            text: 'Operate with transparency using smart contracts. Witness the allocation and distribution of assets in real time. No intermediaries, just clear execution of your wishes.'
+            title: 'Enhanced Transparency through Smart Contracts',
+            text: 'Experience unparalleled transparency through our smart contracts. Watch as assets are allocated and distributed in real-time. With no intermediaries involved, your intentions are executed with utmost clarity.'
         },
     ]
     )

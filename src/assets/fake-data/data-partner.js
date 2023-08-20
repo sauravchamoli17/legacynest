@@ -10,44 +10,34 @@ const dataPartner = [
     {
         id: 1,
         img: null,
-        text: 'ETH'
+        text: 'DAI'
     },
     {
         id: 2,
         img: null,
-        text: 'MATIC'
+        text: 'USDC'
     },
     {
         id: 3,
         img: null,
-        text: 'BNB'
+        text: 'LINK'
     },
     {
         id: 4,
         img: null,
-        text: 'LINK'
+        text: 'UNI'
     },
     {
         id: 5,
         img: null,
-        text: 'XRP'
+        text: 'AAVE'
     },
     
     {
         id: 6,
         img: null,
-        text: 'USDT'
-    },
-    {
-        id: 7,
-        img: null,
-        text: 'NFTs'
-    },
-    // {
-    //     id: 3,
-    //     img: null,
-    //     text: 'ERC 20 Tokens'
-    // }
+        text: 'COMP'
+    }
 ]
 
 export default dataPartner;

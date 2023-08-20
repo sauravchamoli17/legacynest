@@ -40,7 +40,7 @@ const routes = [
   // { path: '/blog-grid-v2', component: <BlogGrid02 />},
   // { path: '/blog-list', component: <BlogList />},
   // { path: '/blog-details', component: <BlogDetails />},
-  // { path: '/wallet', component: <Wallet />},
+  { path: '/wallet', component: <Wallet />},
   // { path: '/user-profile', component: <UserProfile />},
   // { path: '/login', component: <Login />},
   // { path: '/register', component: <Register />},

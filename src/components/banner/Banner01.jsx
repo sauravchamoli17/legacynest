@@ -18,9 +18,9 @@ function Banner01(props) {
 
     const [dataBlock] = useState(
         {
-            title: 'Pass On Your Digital Assets',
-            desc: `Legacy Nest offers a transformative solution for safeguarding your digital legacy. Our platform empowers you to effortlessly secure the future of your cryptocurrency holdings and NFT treasures.`,
-            title2: 'Assets we support'
+            title: 'Pass on Your ERC20 Token Assets',
+            desc: `Legacy Nest introduces an innovative solution for preserving your digital legacy. Our platform empowers you to seamlessly lock in the fate of your ERC20 token assets, ensuring a secure future for your holdings.`,
+            title2: 'Tokens we support'
         }
     );
     return (
@@ -33,7 +33,7 @@ function Banner01(props) {
                             <p className="fs-20 desc">
                                 {dataBlock.desc}
                             </p>
-                            <Button title='Secure Your Legacy' path='#' />
+                            <Button title='Secure Your Tokens' path='#' />
                             <div className="partner">
                                 <h6>{dataBlock.title2}</h6>
                                 <div className="partner__list">

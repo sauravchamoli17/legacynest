@@ -15,7 +15,7 @@ function Work01(props) {
     const [dataBlock] = useState(
         {
             heading: 'How It Works',
-            desc : "Connect your wallet, create your digital will, secure with smart contracts, and ensure your legacy's integrity with Legacy Nest."
+            desc : "Simply connect your wallet, construct your digital will, safeguard it with smart contracts, and guarantee the continuity of your legacy through Legacy Nest."
         }
     )
     return (
